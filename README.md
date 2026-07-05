@@ -1,26 +1,30 @@
-# Premium Futuristic 3D Developer Portfolio
+🚀 Mahesh Portfolio
 
-Welcome to the premium startup-level 3D developer portfolio representing **Mahesh Injarapu**, built with Next.js, Three.js, React Three Fiber, Framer Motion, and TailwindCSS.
+Welcome to my personal developer portfolio, showcasing my projects, technical skills, and journey as a Computer Science Engineering (Artificial Intelligence & Machine Learning) student.
 
+Built using Next.js, React, Three.js, React Three Fiber, Framer Motion, and Tailwind CSS.
 ## 🚀 Tech Stack
 
-- **Core**: Next.js 14 (App Router) & React 18
-- **3D Graphics**: Three.js, `@react-three/fiber`, `@react-three/drei`
-- **Styling & Theme**: TailwindCSS v4, Custom CSS Glassmorphism & Neon Shadows
-- **Animations**: Framer Motion 12
+- **Frontend**: Next.js 14 (App Router), React 18, TypeScript
+- **Styling**: Tailwind CSS, Custom Glassmorphism UI, Neon Effects
+- **3D & Graphics**: Three.js, @react-three/fiber, @react-three/drei
+- **Animations**: Framer Motion
 - **Icons**: Lucide React
+- **Version Control**: Git & GitHub
 
 ## ✨ Features
 
-- **Cyber Boot Loading Screen**: A glowing terminal initialization sequence displaying progress.
-- **Interactive 3D Hero**: React Three Fiber Canvas with a rotating 3D Cyber Core and Orbiting Data Rings responding to mouse movement.
-- **Ambient Interactive Background**: HTML Canvas background running particles connecting dynamically, twinkling stars, drifting blobs, and mouse-glow trails.
-- **Scrollytelling sequence**: Fully preserved preloaded 75-frame scrollytelling animation, updated with Mahesh's core bio.
-- **Custom Mouse Follower**: Cyber trail pointer trailing behind the default cursor, expanding and shifting colors on interactive links/buttons.
-- **Interactive Tech Stack**: Badges floating gently in 3D perspective and moving magnetically toward the user's cursor.
-- **Selected Works**: Project cards with 3D tilt effects, custom inline SVG wireframe graphics, and detailed overlay inspection panels.
-- **GitHub Stats Dashboard**: Custom heat-cell contribution grid, horizontal language bars, pinned repos, and commit feeds.
-- **Printable Resume**: Instant PDF/Print layout trigger.
+- **Modern Hero Section**: Interactive hero with personalized AI portrait and smooth animations.
+- **Responsive Design**: Optimized for desktop, tablet, and mobile devices.
+- **Interactive Background**: Animated particles, glowing effects, and immersive visuals.
+- **Custom Mouse Follower**: Smooth cyber-style cursor with interactive hover animations.
+- **About Me**: Introduction, career objective, and personal profile.
+- **Education**: Academic journey at Dr. RVR NRI Institute of Technology (Deemed to be University).
+- **Skills & Tech Stack**: Showcase of programming languages, frameworks, and development tools.
+- **Project Showcase**: Featured academic and personal projects with modern project cards.
+- **GitHub Integration**: Direct links to GitHub profile and repositories.
+- **Resume Section**: Easy access to download my latest resume.
+- **Contact Section**: Quick ways to connect through email and LinkedIn.
 
 ## 🛠️ Getting Started
 
