@@ -61,7 +61,7 @@ function FloatingTechBadge({ item, index }: { item: TechItem; index: number }) {
     transition: {
       duration: 5 + (index % 3),
       repeat: Infinity,
-      ease: "easeInOut",
+      ease: "easeInOut" as const,
     }
   };
 

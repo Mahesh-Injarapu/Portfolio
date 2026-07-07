@@ -5,17 +5,17 @@ import { GraduationCap, Calendar, BookOpen, Award } from "lucide-react";
 
 const EDUCATION_DATA = [
   {
-    institution: "NRI Institute of Technology",
+    institution: " Dr.RVR NRI Institute of Technology Deemed to be University",
     degree: "Bachelor of Technology (B.Tech)",
     branch: "Computer Science Engineering (Artificial Intelligence & Machine Learning)",
     period: "2022 – Present",
     location: "Andhra Pradesh, India",
     details: [
-      "Specializing in neural networks, machine learning algorithms, deep learning, computer vision, and NLP.",
-      "Acquiring strong hands-on skills in Python programming, OpenCV, MediaPipe, database management, and full-stack development.",
-      "Actively participating in college coding bootcamps, technical clubs, and hackathons.",
-      "Maintained a strong academic record with practical excellence in software engineering labs."
-    ],
+  "Strengthening my knowledge in Artificial Intelligence, Machine Learning, Data Structures & Algorithms, and Full Stack Web Development.",
+  "Building real-world projects including Placement360 AI, QuantumShield X, AI Air Mouse, Jarvis AI Assistant, and RAG PDF Assistant.",
+  "Enhancing programming and problem-solving skills through academic projects, hackathons, and continuous self-learning.",
+  "Passionate about developing innovative software solutions while continuously exploring emerging technologies."
+],
   }
 ];
 
